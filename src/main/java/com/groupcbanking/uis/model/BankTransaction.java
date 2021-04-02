@@ -1,4 +1,4 @@
 package com.groupcbanking.uis.model;
 
-public class User {
+public class BankTransaction {
 }

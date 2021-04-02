@@ -2,7 +2,7 @@ package com.groupcbanking.uis.controller;
 
 import javax.swing.*;
 
-public class UserController
+public class BankController
 {
     public static void main(String[] args)
     {
